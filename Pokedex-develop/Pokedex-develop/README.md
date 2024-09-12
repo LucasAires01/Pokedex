@@ -25,14 +25,3 @@ A aplicação é voltada para crianças e propoe a pesquisa e pokemons através 
 - 
 
 
-
-
-## Autores
-
-- [@MiltonOliveira](https://github.com/Noltim)
-- [@Dielder](https://github.com/Dielder)
-- [@Jailton](https://github.com/jailtonjuniordev)
-- [@LucasCrespo](https://github.com/LucasCrespo75)
-- [@Leonardo](https://github.com/LeonardoEsantos)
-
-
