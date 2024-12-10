@@ -18,10 +18,3 @@ A aplicação é voltada para crianças e propoe a pesquisa e pokemons através 
 - Multiplataforma
 
 
-## Funcionalidades exigidas contempladas
-
-- 
-- 
-- 
-
-
